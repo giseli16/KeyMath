@@ -11,4 +11,21 @@ package Teclado;
  */
 public class Operaciones {
     // aqui se van a poner las operaciones suma resta y multiplicacion
+    
+    public void suma(){
+        
+    }
+    
+    public void resta(){
+        
+    }
+    
+    public void multiplicacion(){
+        
+    }
+    
+    public void division(){
+        
+    }
+    
 }
