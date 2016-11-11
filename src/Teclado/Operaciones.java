@@ -10,7 +10,7 @@ package Teclado;
  * @author ricardo
  */
 public class Operaciones {
-    // aqui se van a poner las operaciones suma resta y multiplicacion
+    // aqui se van a poner las operaciones suma, resta, multiplicación y división
     
     public void suma(){
         
