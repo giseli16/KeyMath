@@ -3,15 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Aritmetica.TipoNumero;
+package TipoNumero;
 
 /**
  *
  * @author ricardo
  */
 public class Real{
-    //Aquí se van a poner las operaciones básicas para los números reales
     
+    //Aquí se van a poner las operaciones básicas para los números reales
     private double numero;
 
     // Constructor

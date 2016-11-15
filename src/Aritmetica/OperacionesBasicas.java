@@ -5,7 +5,7 @@
  */
 package Aritmetica;
 
-import Aritmetica.TipoNumero.Real;
+import TipoNumero.Real;
 
 /**
  *
