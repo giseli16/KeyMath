@@ -12,21 +12,21 @@ package TipoNumero;
 public class Real{
     
     //Aquí se van a poner las operaciones básicas para los números reales
-    private double numero;
+    private double real;
 
     // Constructor
     public Real(double numero) {
-        this.numero = numero;
+        this.real = numero;
     }
     
     
     // Getters and Setters
-    public double getNumero() {
-        return numero;
+    public double getReal() {
+        return real;
     }
     
-    public void setNumero(double numero) {
-        this.numero = numero;
+    public void setReal(double real) {
+        this.real = real;
     }
     
 }

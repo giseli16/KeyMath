@@ -17,8 +17,6 @@ public class Complejo extends Real
         super(numero);
         this.imaginario = imaginario;
     }
-    
-    
 
     public double getImaginario() {
         return imaginario;
