@@ -16,6 +16,7 @@ public class OperacionesBasicas implements Operaciones
 
     @Override
     public Object suma(Object a, Object b) {
+        
         return ((Real)a).getNumero() + ((Real)b).getNumero();
     }
 
