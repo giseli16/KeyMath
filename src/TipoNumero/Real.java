@@ -28,5 +28,9 @@ public class Real{
     public void setReal(double real) {
         this.real = real;
     }
-    
+
+    @Override
+    public String toString() {
+        return "" + getReal();
+    }
 }

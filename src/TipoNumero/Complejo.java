@@ -25,6 +25,11 @@ public class Complejo extends Real
     public void setImaginario(double imaginario) {
         this.imaginario = imaginario;
     }
+
+    @Override
+    public String toString() {
+        return super.toString() + getImaginario();
+    }
     
     
 }
